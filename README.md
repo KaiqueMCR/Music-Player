@@ -1,6 +1,6 @@
 # Music Player
 
-Simple web music player aplication with play/pause and previous/next functions.
+Simple web music player page with play/pause and previous/next functions.
 
 <h3 align="center">
         <img src="./assets/images/screenshot.jpeg" />
